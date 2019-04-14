@@ -5,4 +5,9 @@
 #### In top 12% of leaderboard
 
 
-![Score](https://github.com/divyanshusharma1709/Kaggle/blob/master/CatsvsDogs/score.png)
+![Loss](https://github.com/divyanshusharma1709/Kaggle/blob/master/CatsvsDogs/score.png)
+
+## 2. PetFinder Adoption Prediction
+
+![Loss](https://github.com/divyanshusharma1709/Kaggle/blob/master/PetFinder/score_ptfndr.PNG)
+
